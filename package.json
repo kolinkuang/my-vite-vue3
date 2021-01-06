@@ -1,0 +1,22 @@
+{
+  "name": "my-vite-vue3",
+  "version": "0.0.0",
+  "license": "MIT",
+  "scripts": {
+    "dev": "node vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "vue": "^3.0.4",
+    "@vue/compiler-dom": "^3.0.4"
+  },
+  "devDependencies": {
+    "@vue/compiler-sfc": "^3.0.4",
+    "chalk": "^4.1.0",
+    "es-module-lexer": "^0.3.26",
+    "koa": "^2.13.0",
+    "koa-static": "^5.0.0",
+    "magic-string": "^0.25.7",
+    "vite": "^1.0.0-rc.13"
+  }
+}
